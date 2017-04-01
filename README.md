@@ -1,4 +1,4 @@
-<h2>Grupo 90</h2>
+Grupo 90
 # Curso de HTML5 + CSS3 + jQuery
 
 Sublime Text
