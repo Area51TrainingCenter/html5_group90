@@ -8,7 +8,8 @@
 https://www.sublimetext.com/3
 
 ### Lecturas obligatorias
-[Clase 1: Lectura #1](http://webdelprofesor.ula.ve/nucleotrujillo/alperez/html5_css3/02/index.html)
+Clase 1: 
+[Lectura #1](http://webdelprofesor.ula.ve/nucleotrujillo/alperez/html5_css3/02/index.html)
 
-[Clase 1: Lectura #2](http://webdelprofesor.ula.ve/nucleotrujillo/alperez/html5_css3/03/index.html)
+[Lectura #2](http://webdelprofesor.ula.ve/nucleotrujillo/alperez/html5_css3/03/index.html)
 
