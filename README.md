@@ -1,5 +1,6 @@
 ## Grupo 90
 # Curso de HTML5 + CSS3 + jQuery
+[b]Instructor[/b]: Elder Vásquez
 
 > Recuerden que al lado derecho hay un botón verde para descargar el ZIP de este repositorio.
 
