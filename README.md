@@ -2,7 +2,7 @@
 # Curso de HTML5 + CSS3 + jQuery
 **Instructor**: Elder Vásquez
 
-> Recuerden que al lado derecho hay un botón verde para descargar el ZIP de este repositorio.
+> Recuerden que al lado derecho de esta página, hay un botón verde para descargar el ZIP de este repositorio.
 
 ### Descargar Sublime Text
 https://www.sublimetext.com/3
