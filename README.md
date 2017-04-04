@@ -13,5 +13,5 @@ https://www.sublimetext.com/3
 + [Lectura #2](http://webdelprofesor.ula.ve/nucleotrujillo/alperez/html5_css3/03/index.html)
 
 #### Clase 2:
-+ [Lectura #3](http://www.comocreartuweb.com/curso-de-html/curso-html-introducion/las-imagenes.html)
-+ [Lectura #4](http://www.comocreartuweb.com/curso-de-html/curso-html-introducion/los-enlaces/ruta-de-enlaces.html)
++ [Lectura #3 - Imágenes](http://www.comocreartuweb.com/curso-de-html/curso-html-introducion/las-imagenes.html)
++ [Lectura #4 - Enlaces](http://www.comocreartuweb.com/curso-de-html/curso-html-introducion/los-enlaces/ruta-de-enlaces.html)
