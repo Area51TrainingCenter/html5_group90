@@ -17,4 +17,5 @@ https://www.sublimetext.com/3
 + [Lectura #4 - Enlaces](http://www.comocreartuweb.com/curso-de-html/curso-html-introducion/los-enlaces/ruta-de-enlaces.html)
 
 #### Clase 3:
-+ [Lectura #5 - Listas](http://librosweb.es/libro/xhtml/capitulo_5/listas_ordenadas.html)
++ [Lectura #5 - Listas ordenadas](http://librosweb.es/libro/xhtml/capitulo_5/listas_ordenadas.html)
++ [Lectura #6 - Listas no ordenadas](http://librosweb.es/libro/xhtml/capitulo_5/listas_no_ordenadas.html)
