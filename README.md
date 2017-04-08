@@ -19,3 +19,9 @@ https://www.sublimetext.com/3
 #### Clase 3:
 + [Lectura #5 - Listas ordenadas](http://librosweb.es/libro/xhtml/capitulo_5/listas_ordenadas.html)
 + [Lectura #6 - Listas no ordenadas](http://librosweb.es/libro/xhtml/capitulo_5/listas_no_ordenadas.html)
+
+#### Clase 4:
++ [Lectura #5 - Section](https://developer.mozilla.org/es/docs/Web/HTML/Elemento/section)
++ [Lectura #6 - Article](https://developer.mozilla.org/es/docs/Web/HTML/Elemento/article)
+
+#### Clase 5: Práctica calificada WAAAHAHAHAHAHA!!!
