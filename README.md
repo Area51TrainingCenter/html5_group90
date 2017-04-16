@@ -25,3 +25,8 @@ https://www.sublimetext.com/3
 + [Lectura #6 - Article](https://developer.mozilla.org/es/docs/Web/HTML/Elemento/article)
 
 #### Clase 5: Práctica calificada WAAAHAHAHAHAHA!!!
+
+#### Clase 6: 
+
++ [Lectura #6 - Video](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
++ [Lectura #7 - Audio](https://developer.mozilla.org/es/docs/Web/HTML/Elemento/audio)
