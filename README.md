@@ -30,3 +30,5 @@ https://www.sublimetext.com/3
 
 + [Lectura #6 - Video](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
 + [Lectura #7 - Audio](https://developer.mozilla.org/es/docs/Web/HTML/Elemento/audio)
+
+#### Clase 7: Formularios 
