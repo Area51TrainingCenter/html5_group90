@@ -1,0 +1,85 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  font-size: 16px;
+  font-family: 'Roboto';
+}
+
+header {
+  overflow: hidden;
+}
+
+header, footer {
+  padding: 30px 0;
+  background: black;
+  color: white;
+}
+
+footer {
+  font-size: 1.8em;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  float: right;
+  margin: 25px 2em 0 0;
+  font-size: 1.5em;
+}
+
+nav a:hover {
+  color: purple;
+}
+
+.logo-link {
+  font-size: 2em;
+  color: white;
+  display: block;
+  width: 50%;
+  float: left;
+}
+
+.container {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;  
+}
+.feature {
+  background: url('images/polina.gif');
+  background-size: cover;
+  width: 100%;
+  padding: 150px 0;
+}
+
+.feature, .feature a {
+  color: white; 
+}
+
+.feature a:hover {
+  color: green;
+  text-decoration: underline; 
+}
+
+.banner {
+  background: rgba(0,0,0,0.5);
+  width: 50%;
+  margin: 0 auto;
+  padding: 50px 2em;
+}
+
+.banner p {
+  margin-bottom: 10px;
+}
+
+.banner h2 {
+  margin-bottom: 25px;
+}
+
+
