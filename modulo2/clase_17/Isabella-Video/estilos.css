@@ -76,25 +76,8 @@ header a:active, header a:hover, header .active {
 
 /* Video */
 
-.video-wrap {
-  position: relative;
-  margin-top: 200px;
-}
-
-.video-wrap video {
-  position: absolute;
-  top:50%;
-  left:50%;
-  transform: translate(-50%, -50%);
-  min-width: 100%;
-  min-height: 100%;
-  z-index: 1;
-}
-
 .description {
   color: white;
-  z-index: 3;
-  position: relative;
   width: 80%;
   margin-left: auto;
   margin-right: auto;
