@@ -79,7 +79,6 @@ header a:active, header a:hover, header .active {
 .galeria {
   background: #ededed;
   padding: 40px 0;
-  perspective: 700px; /* Habilitando el espacio 3D */
 }
 
 .galeria h2 {
@@ -94,13 +93,8 @@ header a:active, header a:hover, header .active {
   margin-top: -3px;
   margin: -3px 2% 0 2%;
   position: relative;
-  transition: transform 1s ease-out;
-  transform-style: preserve-3d; /* Habilita el espacio 3D para los hijos no directos */
 }
 
-.fotos-wrap:hover {
-  transform: rotateY(-180deg);
-}
 
 .fotos-wrap:last-child {
   margin-right: 0;
@@ -117,20 +111,6 @@ header a:active, header a:hover, header .active {
   background:#03a9f4;
   padding: 50px 0px 50px 0px;
   text-align: center;
-	position: absolute;
-	top: 0;
-	right: 0;
-	bottom: 0;
-	left: 0;
 }
 
-/* BackFlip */
-
-.fotos-description, .galeria img {
-  backface-visibility: hidden;
-}
-
-.fotos-description {
-  transform: rotateY(180deg);
-}
 
